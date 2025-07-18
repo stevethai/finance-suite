@@ -1,8 +1,0 @@
-﻿name: CI Pipeline
-on: [push, pull_request]
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - run: echo ""Build and test stubs here""
