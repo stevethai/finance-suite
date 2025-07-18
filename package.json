@@ -1,0 +1,28 @@
+{
+  "name": "finance-suite",
+  "version": "1.0.0",
+  "description": "Web app to help people go debt-free and achieve financial stability”",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stevethai/finance-suite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/stevethai/finance-suite/issues"
+  },
+  "homepage": "https://github.com/stevethai/finance-suite#readme",
+  "devDependencies": {
+    "eslint": "^9.31.0",
+    "prettier": "^3.6.2"
+  }
+}
